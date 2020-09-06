@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Trying to pronounce my name?
-### Long name cut short, you can call me Divya.✌️
+### Long name cut short, you can call me Divya.
 
 <!--
 **EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
