@@ -12,4 +12,4 @@
 </p>
 ### Thank You
 <br>
-[VisitorCount](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+
