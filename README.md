@@ -3,11 +3,13 @@
 - 🔭 I’m currently working on improving my skills and acquiring knowledge of various domains.
 
 
-<hr></hr>
+<hr>
 <!--
 **EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+
 <h3> Other Accounts 📫 </h3>
 <br />
 <p>
