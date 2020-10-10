@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving my skills and acquiring knowledge of various domains.
 
 
-
+<hr>
 <!--
 **EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
