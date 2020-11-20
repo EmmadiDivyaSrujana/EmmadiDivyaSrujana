@@ -8,6 +8,7 @@
 
 <hr>
 <p>Thank you for visiting my profile <p>
+
 ![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
 
 <hr>
