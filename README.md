@@ -7,14 +7,16 @@
 -->
 
 <hr>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmadiDivyaSrujana&layout=compact" alt="My Github Stats">
+</p>
+
+<hr>
 <p>Thank you for visiting my profile <p>
 
 ![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
 
-<hr>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmadiDivyaSrujana&layout=compact" alt="My Github Stats">
-</p>
 <hr>
 <h3> Other Accounts 📫 </h3>
 <br />
