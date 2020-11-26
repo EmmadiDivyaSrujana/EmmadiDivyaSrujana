@@ -8,7 +8,28 @@
 **EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+## My Skills :computer:
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
 
+<td align="center" width="20%">
+<img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"> 
+</td>
+
+<td align="center" width="20%">
+<img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+</tr>
+
+
+
+</tbody>
+</table>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmadiDivyaSrujana&layout=compact" alt="My Github Stats">
