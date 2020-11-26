@@ -13,18 +13,15 @@
 <tbody>
  <tr>
 <td align="center" width="33%">
-<span><b><center>HTML5</center></b></span>
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
-<span><b><center>CSS3</center></b></span>
 <img height=80px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
 <td align="center" width="33%">
-<span><b><center>Bootstrap</center></b></span>
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
 </td>
