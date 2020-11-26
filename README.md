@@ -9,25 +9,30 @@
 -->
 
 ## My Skills :computer:
-<br>
 <table>
 <tbody>
  <tr>
 <td align="center" width="33%">
-<span><b><center>HTML5</center></b></span> 
-<img height=80px src="https://img.icons8.com/color/2x/html-5.png"> 
+<span><b><center>HTML5</center></b></span>
+<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"> 
 </td>
 
 <td align="center" width="33%">
-<span><b><center>CSS3</center></b></span> 
-<img height=80px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"> 
+<span><b><center>CSS3</center></b></span>
+<img height=60px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
 <td align="center" width="33%">
-<span><b><center>SQL</center></b></span> 
-<img height=80px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+<span><b><center>MySQL</center></b></span>
+<img height=100px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
 </td>
+
+</td>
+
 </tr>
+
+</tbody>
+</table>
 
 
 
