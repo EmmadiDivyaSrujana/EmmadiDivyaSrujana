@@ -13,15 +13,18 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="20%">
+<td align="center" width="33%">
+<span><b><center>HTML5</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
+<span><b><center>CSS3</center></b></span> 
 <img height=60px src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_960_720.png"> 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="33%">
+<span><b><center>SQL</center></b></span> 
 <img height=60px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 </tr>
