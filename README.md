@@ -1,12 +1,14 @@
    ###   Hello World! :yellow_heart:
 <img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
-- 🔭 I’m currently working on improving my skills and acquiring knowledge of various domains.
+
+<hr>
+
 
 <!--
 **EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<hr>
+
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmadiDivyaSrujana&layout=compact" alt="My Github Stats">
