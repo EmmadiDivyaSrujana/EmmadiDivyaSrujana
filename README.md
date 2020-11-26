@@ -23,8 +23,8 @@
 </td>
 
 <td align="center" width="33%">
-<span><b><center>MySQL</center></b></span>
-<img height=100px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
+<span><b><center>Bootstrap</center></b></span>
+<img height=100px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"> 
 </td>
 
 </td>
