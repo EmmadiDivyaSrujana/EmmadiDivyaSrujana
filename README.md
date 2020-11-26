@@ -37,7 +37,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=80px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
+<img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
 <td align="center" width="33%">
@@ -52,7 +52,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -64,7 +64,38 @@
 </tbody>
 </table>
 
+## Currently Learning :beginner:
 
+- **Data Science**
+
+<table>
+<tbody>
+ <tr>
+<td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+- **Web Development**
+<table>
+<tbody>
+ <tr>
+<td align="center" width="100%">
+<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+</td>
+
+</tr>
 
 </tbody>
 </table>
