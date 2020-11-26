@@ -3,11 +3,6 @@
 
 <hr>
 
-
-<!--
-**EmmadiDivyaSrujana/EmmadiDivyaSrujana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 ## My Skills :computer:
 
 - **Programming Languages**
@@ -64,6 +59,8 @@
 </tbody>
 </table>
 
+<hr>
+
 ## Currently Learning :beginner:
 
 - **Data Science**
@@ -105,12 +102,13 @@
 </p>
 
 <hr>
-<p>Thank you for visiting my profile <p>
+
+## Thank you for visiting my profile. You're a gem. :gem:
 
 ![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
 
 <hr>
-<h3> Other Accounts 📫 </h3>
+
 <br />
 <p>
 <a href="https://www.linkedin.com/in/emmadi-divya-srujana-19baa0182/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
