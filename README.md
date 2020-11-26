@@ -21,8 +21,6 @@
 <td align="center" width="50%">
 <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
 </td>
-<td>
-</td>
 
 </tr>
 
