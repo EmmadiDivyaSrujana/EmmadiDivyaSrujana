@@ -97,9 +97,6 @@
 </tbody>
 </table>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmadiDivyaSrujana&layout=compact&theme=chartreuse-dark" alt="My Github Stats">
-</p>
 
 <hr>
 
