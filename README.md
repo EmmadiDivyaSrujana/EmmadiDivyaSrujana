@@ -63,6 +63,7 @@
 
 ## Currently Learning :beginner:
 
+<!--
 - **Data Science**
 
 <table>
@@ -80,10 +81,10 @@
 <img height=80px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
 </td>
 </tr>
--->
+
 </tbody>
 </table>
-
+-->
 - **Web Development**
 <table>
 <tbody>
