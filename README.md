@@ -13,10 +13,6 @@
 <img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
 </td>
 
-<td align="center" width="50%">
-<img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
-</td>
-
 </tr>
 
 </tbody>
@@ -44,10 +40,6 @@
  <tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -85,7 +77,7 @@
 </tbody>
 </table>
 -->
-- **Web Development**
+<!-- - **Web Development**
 <table>
 <tbody>
  <tr>
@@ -97,8 +89,8 @@
 </td>
 
 </tr>
-</tbody>
-</table>
+</tbody> 
+</table>-->
 
 
 <hr>
