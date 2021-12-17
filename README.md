@@ -48,7 +48,6 @@
 
 <hr>
 
-## Currently Learning :beginner:
 
 <!--
 - **Data Science**
