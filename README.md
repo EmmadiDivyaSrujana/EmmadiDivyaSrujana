@@ -34,13 +34,14 @@
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
-    <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
-</td>
-
+ 
 
 </tr>
-
+   <tr>
+   <td align="center" width="33%">
+<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+</td>
+   </tr>
 
 
 </tbody>
@@ -84,10 +85,9 @@
 
 </tr>
 </tbody> 
-</table>-->
+</table>
 
-
-<hr>
+<hr>-->
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 
